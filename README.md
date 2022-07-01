@@ -27,8 +27,6 @@ Along with this, the application is responsive to mobile as well. The code also 
 
 
 
-Good luck and if you have questions, please reach out to us at mbeurmen@crownsterling.io
-
 ## Available Scripts
 
 In the project directory, you can run:
