@@ -2,16 +2,24 @@
 
 Here is my submission for the Front End Engineering Challenge
 
-
+![Ballot Walkthrough](public/CrownSterlingChallenge.gif)
 
 ## Walkthrough
+
+Run the application using 
+### `yarn start`
+and
+### `yarn backend`
+
+to start up frontend and backend, respectively.
+
 My code and design was based off this wirframe below
 
 The user is able to vote for a movie in each category. Once a movie is selected, it is highlighted blue. The user cannot select more than one movie per category
 
 The user will only be able to submit once they have voted for each category. Once submitted, the user is able to view their votes per category in the cosole.
 
-Along with this, the application is responsive to mobile as well.
+Along with this, the application is responsive to mobile as well. The code also include alt desciprtions of the pictures in the card to make the site more accessible 
 
 
 ![Ballot Wireframe](src/take-home-wire.jpg?raw=true "Ballot Wireframe")
