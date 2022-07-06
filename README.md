@@ -1,6 +1,5 @@
-# Crown Sterling Front End Engineering Challenge
+# Movie Ballot Voter
 
-Here is my submission for the Front End Engineering Challenge
 
 ![Ballot Walkthrough](public/CrownSterlingChallenge.gif)
 
